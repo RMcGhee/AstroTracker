@@ -3,6 +3,9 @@ Python program to control a purpose built camera tracking system for astrophotog
 
 @TODO
 Finish up basic GUI
+
 Finish math and write code for calibration
+
 Clean up messy code
+
 Integrate with hardware
