@@ -1,4 +1,6 @@
 # Program that manages the alt and az of the mount.
+# This will interface with MotorControl when hardware integration starts
+
 from AltitudeAzimuth import *
 import ephem
 import time
