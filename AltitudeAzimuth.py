@@ -1,8 +1,4 @@
-# Needs class that can maintain RA/DEC and get ALT/AZ from available info.
-# Needs class to set location (lat, lon, elevation)
-# Object gets location info in args when init'd.
-# Needs method to set RA/DEC
-# Needs method to get alt/az of body
+# Mostly done, some other math for calibration will be done here.
 
 from ephem import *
 import time
