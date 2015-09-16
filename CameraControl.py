@@ -1,3 +1,5 @@
+# simple threading left to do, will interface with camera via arduino
+
 import threading
 
 CAMERA_LOCK = threading.Lock()
