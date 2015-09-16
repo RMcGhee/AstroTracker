@@ -1,3 +1,5 @@
+# will grow as input management needs change, but working well so far.
+
 from tkinter import *
 import tkinter.ttk as ttk
 
