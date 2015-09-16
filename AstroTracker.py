@@ -2,7 +2,8 @@
 'of the program. The main meat of the astro tracking is done in MountControl, '
 'AlititudeAzimuth, and MotorControl. CameraControl is a glorified intervalometer.'
 
-#import MountControl
+# Need to finish GUI, work on calibration
+
 from tkinter import *
 import tkinter.ttk as ttk
 import os
